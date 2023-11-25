@@ -1,3 +1,1 @@
-I don't know what I'm doing.
-
-The only good language is bash.
+Is there a library for that?
